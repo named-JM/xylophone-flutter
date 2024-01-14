@@ -1,4 +1,4 @@
-# cosc30_midterm_caguco_joanna_activity2
+# Xylophone Flutter
 
 A new Flutter project.
 
